@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npm run tsc -- --noEmit && jest",
     "tsc": "tsc",
-    "dev": "nodemon src/infra/api/server.ts"
+    "dev": ""
   },
   "keywords": [],
   "author": "",
